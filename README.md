@@ -72,6 +72,9 @@ RegisterNumber:24900445
 
 **TRUTH TABLE**
 
+![WhatsApp Image 2024-12-24 at 10 25 09 AM](https://github.com/user-attachments/assets/948df2cc-3b41-4206-a222-bebb87fc3022)
+
+
 **RESULTS**
 
 4 bit synchronous up counter is implemented and validate functionality.
